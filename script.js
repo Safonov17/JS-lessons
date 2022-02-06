@@ -3,7 +3,7 @@ const screens = "Простые, Сложные, Интерактивные";
 const screenPrice = 500;
 const rollback = 10;
 const fullPrice = 110000;
-const adaptive = 5 > 3;
+const adaptive = true;
 
 // Вывести в консоль тип данных значений переменных title, fullPrice, adaptive;
 console.log(typeof title);
